@@ -45,4 +45,4 @@ app.post('/', async (req, res) => {
   }
 })
 
-app.listen(5000, () => console.log('https://aicuritiba-api.onrender.com'))
+app.listen(5000, () => console.log('https://aicuritiba.com.br/open/'))
